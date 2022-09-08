@@ -41,3 +41,13 @@ img {
     text-transform: capitalize;
   }
 }
+.arrowup img {
+  width: 30px;
+  position: fixed;
+  right: 50px;
+  bottom: 50px;
+  z-index: 2;
+  background-color: #e6e6e6;
+  border-radius: 50%;
+  padding: 10px;
+}
