@@ -40,3 +40,10 @@
     font-size: 1.5rem;
   }
 }
+
+.btnstart {
+  width: 40px;
+  position: fixed;
+  bottom: 20px;
+  right: 60px;
+}
